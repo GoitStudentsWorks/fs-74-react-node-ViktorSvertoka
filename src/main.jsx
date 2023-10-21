@@ -14,7 +14,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <Provider store={store}>
       <PersistGate loading={null} persistor={persistor}>
-        <BrowserRouter basename="/power-pulse">
+        <BrowserRouter basename="/fs-74-react-node-ViktorSvertoka">
           <GlobalStyle />
           <App />
           <ToastContainer />
