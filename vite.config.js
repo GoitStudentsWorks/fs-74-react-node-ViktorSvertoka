@@ -10,5 +10,5 @@ export default defineConfig({
       components: '/src/components',
     },
   },
-  base: '/power-pulse/',
+  base: '/fs-74-react-node-ViktorSvertoka/',
 });
